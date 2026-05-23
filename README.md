@@ -105,15 +105,7 @@ The goal is to make open-source work related to Uruguay easier to discover, use,
 
 - **[LibreCourseUY](https://librecourse.uy/)** - Community initiative helping people in Uruguay learn Git, GitHub, collaboration, and open-source contribution.
 
-- **[Coordinadora de Comunidades de Software Libre en Uruguay](https://softwarelibre.uy/)** - Coordination space for free-software communities in Uruguay.
-
-- **[Linux.org.uy](https://www.linux.org.uy/)** - Uruguayan Linux Users Group.
-
-- **[Python Uruguay](http://python.org.uy/)** - Uruguayan Python community.
-
 - **[SoftwareLibre.edu.uy](http://www.softwarelibre.edu.uy/)** - Free-software group connected to Universidad de la República.
-
-- **[Ubuntu Uruguay](http://www.ubuntu.org.uy/)** - Local Ubuntu community.
 
 ## Universities & Public Institutions
 
